@@ -1,0 +1,15 @@
+{
+  "name": "Creacore",
+  "version": "1.0.0",
+  "description": "Tvorba webových stránek",
+  "dependencies": {
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^0.9.2"
+  },
+  "author": "Václav Brzezina",
+  "license": "ISC"
+}
